@@ -1,0 +1,15 @@
+D:\git\git\test _Git 2\leson_2\bin\Debug\net6.0\leson_2.exe
+D:\git\git\test _Git 2\leson_2\bin\Debug\net6.0\leson_2.deps.json
+D:\git\git\test _Git 2\leson_2\bin\Debug\net6.0\leson_2.runtimeconfig.json
+D:\git\git\test _Git 2\leson_2\bin\Debug\net6.0\leson_2.dll
+D:\git\git\test _Git 2\leson_2\bin\Debug\net6.0\leson_2.pdb
+D:\git\git\test _Git 2\leson_2\obj\Debug\net6.0\leson_2.csproj.AssemblyReference.cache
+D:\git\git\test _Git 2\leson_2\obj\Debug\net6.0\leson_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\git\test _Git 2\leson_2\obj\Debug\net6.0\leson_2.AssemblyInfoInputs.cache
+D:\git\git\test _Git 2\leson_2\obj\Debug\net6.0\leson_2.AssemblyInfo.cs
+D:\git\git\test _Git 2\leson_2\obj\Debug\net6.0\leson_2.csproj.CoreCompileInputs.cache
+D:\git\git\test _Git 2\leson_2\obj\Debug\net6.0\leson_2.dll
+D:\git\git\test _Git 2\leson_2\obj\Debug\net6.0\refint\leson_2.dll
+D:\git\git\test _Git 2\leson_2\obj\Debug\net6.0\leson_2.pdb
+D:\git\git\test _Git 2\leson_2\obj\Debug\net6.0\leson_2.genruntimeconfig.cache
+D:\git\git\test _Git 2\leson_2\obj\Debug\net6.0\ref\leson_2.dll
